@@ -144,11 +144,10 @@ This is a library system designed for internal use by the university. There are 
 If you imported the university_library.sql, the login credentials are as follows:
 | Email                 | Password   | Role     |
 |-----------------------|------------|----------|
-| lwleo2000@gmail.com   | 0124228523 | Admin    |
-| yuanjie2000@gmail.com | 0129224545 | Lecturer |
-| kai411@gmail.com      | 0129222929 | Student  |
-| edison@gmail.com      | 0129222929 | Student  |
-| aliabuakao@gmail.com  | 0123456789 | Student  |
+| addisu2000@gmail.com  | 0948020944 | Admin    |
+| yibelu2000@gmail.com  | 0948020944 | Lecturer |
+|  hab22@gmail.com      | 0948020944 | Student  |
+
 
 
 ## Preview
@@ -163,30 +162,15 @@ If you imported the university_library.sql, the login credentials are as follows
 8. Borrow Management <br> <img src="previews/BorrowManagement.jpg"><br><br>
 9. Borrow Book <br> <img src="previews/BorrowBook.jpg"><br><br>
 10. Return Book <br> <img src="previews/ReturnBook.jpg"><br><br>
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/IQ9999999"><img src="https://avatars.githubusercontent.com/u/52337440?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IQ9999999</b></sub></a><br /><a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=IQ9999999" title="Code">💻</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=IQ9999999" title="Documentation">📖</a> <a href="#ideas-IQ9999999" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-IQ9999999" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/lwleo02"><img src="https://avatars.githubusercontent.com/u/86616877?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lwleo02</b></sub></a><br /><a href="#question-lwleo02" title="Answering Questions">💬</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=lwleo02" title="Code">💻</a> <a href="#data-lwleo02" title="Data">🔣</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=lwleo02" title="Documentation">📖</a> <a href="#ideas-lwleo02" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/pulls?q=is%3Apr+reviewed-by%3Alwleo02" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/yuanjie8629"><img src="https://avatars.githubusercontent.com/u/86699785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tan Yuan Jie</b></sub></a><br /><a href="https://github.com/IQ9999999/University-Library-Management-System/issues?q=author%3Ayuanjie8629" title="Bug reports">🐛</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=yuanjie8629" title="Code">💻</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=yuanjie8629" title="Documentation">📖</a> <a href="#ideas-yuanjie8629" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=yuanjie8629" title="Tests">⚠️</a> <a href="#userTesting-yuanjie8629" title="User Testing">📓</a></td>
-    <td align="center"><a href="https://github.com/Kai411"><img src="https://avatars.githubusercontent.com/u/51218403?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kaii411</b></sub></a><br /><a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=Kai411" title="Code">💻</a> <a href="#design-Kai411" title="Design">🎨</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=Kai411" title="Documentation">📖</a> <a href="#ideas-Kai411" title="Ideas, Planning, & Feedback">🤔</a> <a href="#userTesting-Kai411" title="User Testing">📓</a></td>
-    <td align="center"><a href="https://github.com/kacoccc"><img src="https://avatars.githubusercontent.com/u/65219841?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kacoccc</b></sub></a><br /><a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=kacoccc" title="Code">💻</a> <a href="https://github.com/IQ9999999/University-Library-Management-System/commits?author=kacoccc" title="Documentation">📖</a> <a href="#ideas-kacoccc" title="Ideas, Planning, & Feedback">🤔</a> <a href="#userTesting-kacoccc" title="User Testing">📓</a></td>
-  </tr>
-</table>
+ 
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-=======
+
+
 # UniversityLibrarySystem
 laravel
 >>>>>>> 65adec542ac58c1ab68d7971aa56896cc4c9322e
