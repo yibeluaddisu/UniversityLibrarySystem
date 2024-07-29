@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # University Library Management System
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
@@ -185,3 +186,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+=======
+# UniversityLibrarySystem
+laravel
+>>>>>>> 65adec542ac58c1ab68d7971aa56896cc4c9322e
